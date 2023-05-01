@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-c-application-called-area
+<br>
+For this assignment, you will write a C++ application called Area. The goal of this program is to determine the area of a circle and a square. You will use the Code::Blocks software to write this application. Follow the instructions in the Unit 3, Part 2 Assignment Instructions document, linked in the Resources, to complete this part of your assignment. You should organize your code into header files (Circle.h, Square.h) and implementation files (Circle.cpp, Square.cpp, main.cpp).
